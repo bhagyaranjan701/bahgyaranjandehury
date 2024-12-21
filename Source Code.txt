@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <title>Bhagyaranjan Dehury</title>
+</head>
+<body>
+        <!--Start Header-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="yellow">
+            <tr>
+                <td>
+                    <table border="0" cellspacing="0" cellpadding="10" align="center">
+                            <tr>
+                                <td><span class="fa-solid fa-circle-user"> Bhagyaranjan Dehury</span></td> 
+                                <td width="30%"></td>
+                                <td>Home</td>
+                                <td>About Me</td>
+                                <td>Education</td>
+                                <td>Skill</td>
+                                <td>Achievement</td>
+                                <td>Contact Me</td>
+
+                            </tr> 
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!--End Header-->
+
+        <!--Start Home-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="pink">
+            <tr>
+                <td>
+                    <table border="0" cellspacing="0" cellpadding="10" align="center">
+                            <tr><br><br><br><br><br><br><br><br><br><br>
+                                <td align="center"> 
+                                   <font size="120"> HEY.... Bhagyaranjan Dehury❤️❤️</font>
+                                   <h2><marquee behavior="alternate" direction="left" scrollamount="20">I'M A FRONT-END DEVLOPER</marquee><br><br><br><br><br><br><br></h2>
+                                </td> 
+                            </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!--End Home-->
+        <!--Start About-->
+        
+<table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="teal">
+    <tr>
+        <td>
+            <table border="0" cellspacing="0" cellpadding="10" align="center" >
+                    <tr>
+                        <td align="center" height="150" colspan="2">
+                           <font size="9">About Me</font>
+                           <hr width="70%">
+                        </td>
+                               </tr>
+                                 <tr>
+                                     <td width="40%">
+                                      <img src="inmg" alt="" width="90%"></td>
+                                 <td width="60%" style="color:black;">
+                                 <h2 align="center">Bhagyaranajn Dehury</h2>
+                                 <h3 align="center">Web Designer</h3>
+                                     <font size=""> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, modi quasi aut doloribus nesciunt unde explicabo enim, amet, ipsam officiis provident voluptate rerum qui beatae sint eius odit eaque quibusdam ducimus animi. Iusto fugit, ex quia molestiae aut ab hic quisquam esse vel dignissimos eos in consequuntur ratione! Molestiae perspiciatis alias iure dicta accusantium minima quis necessitatibus id recusandae? Quisquam nobis harum repellat, cupiditate minima corporis veniam animi! Porro sint, molestiae ex laborum numquam eaque, autem quibusdam animi laudantium consequuntur libero voluptate dolores suscipit accusamus quo placeat, quas enim ab? Illum magni omnis labore ipsa, voluptatem assumenda voluptate quasi ea architecto placeat expedita adipisci voluptates dolorum dolorem excepturi! Nemo quo atque blanditiis corporis maxime quisquam officiis ullam voluptatibus alias vitae! Fugiat .
+                                     </font>
+                                  </td>
+                                 </tr>
+                             </table>
+                         </td>
+                      </tr>
+                             <!--End About-->
+
+
+        <!--Start Education-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="violet">
+        <tr>
+            <td>
+                <table border="0" cellspacing="0" cellpadding="10" align="center" >
+                        <tr>
+                            <td align="center" height="150" colspan="3">
+                               <font size="40">Education</font>
+                               <hr width="10%">
+                                    </td>
+                                </tr>
+                            </tr>  
+                                <td width="33%">
+                                    <h2>10th Board</h2>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit unde a possimus aspernatur recusandae. Blanditiis ad ex quod veniam nesciunt, praesentium dolores aliquid aspernatur magni iusto sed labore possimus magnam officiis mollitia fuga repellat nostrum facere distinctio ab beatae repellendus necessitatibus doloremque? Quisquam voluptate nesciunt sunt delectus molestias eveniet dolor?
+                                </td>
+                                    <td width="33%">
+                                    <h2>12th Board</h2>
+                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptates at nam atque provident, explicabo accusamus architecto, minima, doloribus aliquam doloremque porro. Facilis accusamus nostrum eaque quod consequuntur labore laudantium debitis eligendi, repellendus totam sint voluptatum et praesentium exercitationem at doloremque ipsa rem. Quasi laudantium eius soluta unde aliquam quas.
+                             </td>
+                                    <td width="33%">
+                                        <h2>Graduatuion</h2>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam cupiditate doloremque, esse culpa incidunt rem dolorem animi consequatur nulla necessitatibus ab saepe nisi doloribus nihil, ducimus fugiat! A soluta quas, magni nihil sequi, provident reiciendis iure labore aliquam perspiciatis nam! Error nam culpa, vel repellendus modi ipsa cum possimus sint?
+                                    </td>
+                          </tr>
+                        </table>
+                    </td>
+                </tr>
+        </table>
+        <!--End Education-->
+
+        <!--Start Project-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="green">
+            <tr>
+                <td>
+                    <table border="0" cellspacing="0" cellpadding="10" align="center" >
+                            <tr>
+                                <td align="center" height="150" colspan="3">
+                                   <font size="40">Project</font>
+                                   <hr width="10%">
+                                        </td>
+                                    </tr>
+                                </tr>  
+                                    <td width="33%" align="center">
+                                      <img src="project-management-scaled.jpg" alt="" width="90%">
+                                </td>
+                                    <td width="33%" align="center">
+                                       <img src="th.jpeg" alt="" width="90%">
+                                 </td>
+                                     <td width="33%" align="center">
+                                       <img src="web_ilY3NoA.webp" alt="" width="90%">     
+                                </td>
+                              </tr>
+                         </table>
+                     </td>
+                </tr>
+            </table>
+        <!--End Project-->
+        <!--Start Achievement-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="blow">
+        <tr>
+            <td>
+                <table border="0" cellspacing="0" cellpadding="10" align="center" >
+                        <tr>
+                            <td align="center" height="150" colspan="2">
+                               <font size="9">Achievement</font>
+                               <hr width="70%">
+                            </td>
+                                   </tr>
+                                     <tr>
+                                         <td width="60%">
+                                            <ul><font size="20">
+                                                <li>->Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, hic!</li>
+                                                <li>->Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, nam.</li>
+                                                <li>->Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, culpa.</li>
+                                                <li>->Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, laborum!</li>
+                                                <li>->Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, officia.lo</li>
+                                                <li>->Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, vitae?</li>
+                                                <li>->Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas, porro.</li>
+                                                <li>->Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel, vero.</li>
+                                            </ul></font>
+                                     <td width="40%" style="color:black;">
+                                        <img src="hand-holding-a-winner-trophy-cup-award-vector.jpg" alt="" width="90%"></td>
+                                      </td>
+                                     </tr>
+                                 </table>
+                             </td>
+                          </tr>
+        <!--End Achievement-->
+
+        <!--Start contact-->
+        <table border="1" cellspacing="0" cellpadding="10" width="100%" bgcolor="a0e397">
+            <tr>
+                <td>
+                    <table border="0" cellspacing="0" cellpadding="10" align="center" >
+                            <tr>
+                                <td align="center" height="150" colspan="2">
+                                   <font size="9">Contact me</font>
+                                   <hr width="70%">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Name:
+                                </td>
+                                <td>
+                                    <input type="text">
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    E-amil:
+                                </td>
+                                <td>
+                                    <input type="email">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Contact:
+                                </td>
+                                <td>
+                                    <input type="number">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                               Enter:
+                                </td>
+                                <td>
+                                    <textarea name="" id=""></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Submit
+                                </td>
+                                <td>
+                                    <input type="submit">
+                                </td>
+                            </tr>
+                                     </table>
+                                 </td>
+                              </tr>
+        <!--End Contact-->
+        <!--Start Footer-->
+        <!--End Footer-->
+        <!--This serction is for social media-->
+
+        <!--Start-->
+        <table cellpadding="20" width="100%" bgcolor="#66ff66">
+            <tr>
+                <td><a href="">Instagram</td>
+                <td><a href="">whatsapp</td>
+                <td><a href="">Linkedin</td>
+                <td><a href="">Github</td>
+                <td><a href="">Top</td>
+            </tr>
+        </table>
+        <!--End-->
+</body>
+</html> 
